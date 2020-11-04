@@ -16,7 +16,7 @@ This app was develop using Vue js, socket.io and backend using node js & expres 
 - Etc
 
 You can try on this link >> 
-http://107.21.37.83:2040/login
+http://3.89.119.22:2021/login
 
 ![Screenshot_4](https://user-images.githubusercontent.com/50771883/97926993-b9891200-1d96-11eb-8cd2-a486ad4ca099.jpg)
 ![Screenshot_1](https://user-images.githubusercontent.com/50771883/97850997-5b711600-1d27-11eb-9670-5018734af620.jpg)
