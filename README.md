@@ -1,7 +1,8 @@
 # Front-End-Fake-Telegram
 
 Hello everyone, this is my project week 9 in bootcamp.
-This app was develop using Vue js, socket.io and backend using node js & expres js
+Demo link http://3.89.119.22:2021/login
+This app was develop using Vue js, socket.io and backend using node js & expres js,integration with Back-End >> https://github.com/Mrikoarafi/Back-End-Fake-Telegram
 
 # Feature
 - Register
